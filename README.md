@@ -1,7 +1,5 @@
-## Hi people (and other species) from all over the universe.
-
-I am Eliomar Garzón, currently looking for new opportunities to collaborate, learn and grow.
-I love javascript, progressive music and eating junk food.
+I am Eliomar Garzón, currently looking for new opportunities to collaborate, learn and grow,
+i love javascript and its ecosystem, but I also feel comfortable working with other technologies.
 
 <!---
 eliowar28/eliowar28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
